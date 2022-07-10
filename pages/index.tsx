@@ -8,6 +8,7 @@ const Home: NextPage = () => {
 			<Head>
 				<meta property="og:title" content="BetterReplit" />
 				<meta property="og:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam." />
+				<link rel="shortcut icon" href="favicon.png" type="image/png" />
 			</Head>
 			<nav className="w-full transition-all delay-300 p-5 bg-slate-900 flex items-center lg:pl-[300px] lg:pr-[300px]">
 				<span className="font-bold text-2xl">BetterReplit</span>
